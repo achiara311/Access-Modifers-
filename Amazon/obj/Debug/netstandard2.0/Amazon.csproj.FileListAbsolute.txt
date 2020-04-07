@@ -1,0 +1,3 @@
+C:\Users\achiara\source\repos\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.csprojAssemblyReference.cache
+C:\Users\achiara\source\repos\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\achiara\source\repos\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfo.cs
